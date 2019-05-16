@@ -1,6 +1,6 @@
 ## Description
 
-Simple website for prom
+Simple website for prom :couple:	
 
 **What to expect?**
 
@@ -15,5 +15,7 @@ Simple website for prom
 + Beautiful UI ( _dynamic UI_ )
 
 **Note:** everything above can be changed.
+
+:point_right: [Request feature](https://github.com/bobdinh139/PROMposal/issues/new?assignees=&labels=&template=feature_request.md&title=) 
 
 _coming soon!_
